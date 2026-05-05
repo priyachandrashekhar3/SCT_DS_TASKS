@@ -1,13 +1,9 @@
-# Data Science Internship
+## Task 2: Data Cleaning and EDA
 
-## Task 1: Data Visualization
+Performed exploratory data analysis on the tips dataset.
 
-Created a histogram to visualize age distribution.
-
-### Observation:
-Most values lie between 22–28 showing a uniform distribution.
-
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
+### Observations:
+- Higher total bill amounts generally lead to higher tips.
+- Most bills fall in a mid-range distribution.
+- Average tips vary across different days.
+- Spending patterns differ slightly based on gender.
