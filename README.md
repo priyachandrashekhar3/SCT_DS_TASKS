@@ -1,9 +1,6 @@
-## Task 2: Data Cleaning and EDA
+## Task 3: Decision Tree Model
 
-Performed exploratory data analysis on the tips dataset.
+Built a classification model using Decision Tree algorithm on the Iris dataset.
 
-### Observations:
-- Higher total bill amounts generally lead to higher tips.
-- Most bills fall in a mid-range distribution.
-- Average tips vary across different days.
-- Spending patterns differ slightly based on gender.
+### Outcome:
+The model was able to predict the category of flowers with high accuracy.
