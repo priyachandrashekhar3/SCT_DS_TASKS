@@ -1,6 +1,8 @@
-## Task 3: Decision Tree Model
+## Task 4: Data Analysis
 
-Built a classification model using Decision Tree algorithm on the Iris dataset.
+Performed analysis on the flights dataset using visualizations.
 
-### Outcome:
-The model was able to predict the category of flowers with high accuracy.
+### Insights:
+- Passenger count increased over the years
+- Seasonal trends observed across months
+- Heatmap shows peak travel periods
