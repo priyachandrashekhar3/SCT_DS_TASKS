@@ -1,8 +1,20 @@
-## Task 4: Data Analysis
+## Task 5 - Statistical Analysis
 
-Performed analysis on the flights dataset using visualizations.
+Performed statistical analysis using the Tips dataset.
 
-### Insights:
-- Passenger count increased over the years
-- Seasonal trends observed across months
-- Heatmap shows peak travel periods
+### Techniques Used
+- Descriptive Statistics
+- Correlation Analysis
+- T-Test
+- Data Visualization
+
+### Libraries Used
+- Pandas
+- Scipy
+- Seaborn
+- Matplotlib
+
+### Outputs
+- Total Bill Distribution Histogram
+- Gender-wise Bill Boxplot
+- Correlation Heatmap
